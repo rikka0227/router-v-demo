@@ -3,6 +3,6 @@
 
 <template>
   <main>
-    Home
+    Home123
   </main>
 </template>
